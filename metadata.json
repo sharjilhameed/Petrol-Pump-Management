@@ -1,0 +1,6 @@
+{
+  "name": "Dil Faraz Petroleum - 3D Simulator & Station Manager",
+  "description": "Interactive 3D petrol pump dispenser simulation, step-by-step how-to guide, and comprehensive fuel station management & calculation suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
